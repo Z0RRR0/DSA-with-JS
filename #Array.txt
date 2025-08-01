@@ -1,0 +1,37 @@
+#Array
+
+1.Remove Duplicates
+	Resources
+	Remove duplicate elements from a sorted array.
+
+2.Remove Element
+	Resources
+	Remove specific elements from an array.
+
+3.Reverse String
+	Resources
+	Reverse the characters of a string.
+
+4.Best Time to Buy and Sell Stocks
+	Resources
+	Maximize profit from stock prices using smart strategy.
+
+5.Merge Sorted Arrays
+	Resources
+	Merge two sorted arrays into one sorted array.
+
+6.Move Zeros
+	Resources
+	Move all zeros to the end of the array without changing order.
+
+7.Max Consecutive Ones
+	Resources
+	Find the maximum streak of 1s in a binary array.
+
+8.Missing Number
+	Resources
+	Find the missing number in a sequence from 1 to N.
+
+9.Single Number
+	Resources
+	Find the unique element in an array where all others are repeated.
